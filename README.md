@@ -21,5 +21,13 @@ reported by the NYC Police Department from January 2021 to April 2023.
 - Top 7 vehicle types involved in collisions
 - Street-level collision analysis
 
+## Dashboard Preview
+
+### Page 1 - Person and Period Overview
+![Dashboard Page 1](images/dashboard_page1.png)
+
+### Page 2 - Collision Overview
+![Dashboard Page 2](images/dashboard_page2.png)
+
 ## Author
 **Jean Billa** — Data Analysis & AI Student | Willis College, Ottawa, Ontario
